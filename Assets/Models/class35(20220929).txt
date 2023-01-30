@@ -1,0 +1,38 @@
+Cup(ceramic)
+Cup(paper)
+Ball(soccer)
+Ball(golf)
+Ball(tennis)
+Ball(volley)
+Whiteboard
+Blackboard
+Can
+Laptop
+Bottle(plastic)
+Bottle(glass)
+Chair
+Computer keyboard
+Computer mouse
+Clock
+Mobile phone
+Backpack
+Box
+Toilet paper
+Flowerpot
+Door handle
+Sofa bed
+Stairs
+Waste container
+Book
+Microwave
+Towel
+Spoon
+Printer
+Picture frame
+Dumbbell
+Drawer
+Tabel
+Cup(glass)
+Camera
+Refrigerator
+Bowl
